@@ -10,4 +10,4 @@
 - 기타 버그 수정 및 코드 개선
 
 ## Tutorials
-[샘플코드](https://github.com/my-hyo/notion-api-test/blob/develop/jupyter/sample.ipynb) 를 참고하시면 됩니다.
+[샘플코드](https://github.com/minung-park/notion-api-test/blob/develop/jupyter/sample.ipynb) 를 참고하시면 됩니다.
